@@ -29,8 +29,8 @@ Welcome to my GitHub profile! I'm passionate about AI, machine learning, and sof
 ### 📫 How to reach me:
 
 - GitHub: [suraj-bm](https://github.com/suraj-bm)
-- Email: [your email here]
-- LinkedIn: [your LinkedIn here]
+- Email: [suraj.b.melligeri@gmail.com]
+- LinkedIn: [www.linkedin.com/in/suraj-bm-0952ab2a6]
 
 ### ⚡ Fun fact:
 
