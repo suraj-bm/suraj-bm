@@ -33,7 +33,5 @@ Welcome to my GitHub profile! I'm passionate about AI, machine learning, and sof
 - LinkedIn: [www.linkedin.com/in/suraj-bm-0952ab2a6]
 
 ### ⚡ Fun fact:
-
-I enjoy participating in hackathons, and I recently attended a 24-hour hackathon at NIT-K! 🚀
-
+I'll Win 
 
