@@ -95,7 +95,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/suraj-bm/suraj-bm/output/snake.svg" alt="Snake animation" />
 
 ###
 
