@@ -1,37 +1,107 @@
-## Hi there 👋, I'm Suraj!
+<h2 align="left">Hi there 👋, I’m Suraj B. Melligeri</h2>
 
-Welcome to my GitHub profile! I'm passionate about AI, machine learning, and software development. I love working on real-world applications and open-source projects.
+###
 
-### 🔭 I’m currently working on:
+<h4 align="center">🚀 Passionate about building intelligent systems | scalable web apps |  impactful tech solutions.</h4>
 
-- **AI-Powered Financial Guardian for Families** – An intelligent financial tracking tool
-- **Volunteer Connection Hub** – A platform to connect volunteers with opportunities
-- **Quantum-Enhanced Credit Scoring** – Using quantum computing for better credit evaluation
+###
 
-### 🌱 I’m currently learning:
+<h2 align="center">Languages</h2>
 
-- Advanced AI & quantum computing
-- Backend development with Django
-- Optimizing ML models for efficiency
+###
 
-### 👯 I’m looking to collaborate on:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+</div>
 
-- AI-driven fintech applications
-- Open-source Django projects
-- Quantum computing applications in finance
+###
 
-### 💬 Ask me about:
+<h2 align="center">Framework</h2>
 
-- Machine learning & AI models
-- Django and backend development
-- Stock market analysis using AI
+###
 
-### 📫 How to reach me:
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
+</div>
 
-- GitHub: [suraj-bm](https://github.com/suraj-bm)
-- Email: [suraj.b.melligeri@gmail.com]
-- LinkedIn: [www.linkedin.com/in/suraj-bm-0952ab2a6]
+###
 
-### ⚡ Fun fact:
-I'll Win 
+<h2 align="center">Database</h2>
 
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+</div>
+
+###
+
+<h2 align="center">Tools Used</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="60" alt="postman logo"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAd/hello-gojo-satoru.gif"  />
+
+###
+
+<div align="center">
+  <a href="https://www.youtube.com/@LordEditz-ux" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://discord.com/users/guts7087" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="http://www.linkedin.com/in/suraj-b-melligeri38" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/suraj-bm/suraj-bm/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suraj-bm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=suraj-bm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
+
+###
