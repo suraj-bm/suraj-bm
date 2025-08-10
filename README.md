@@ -74,32 +74,36 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAd/hello-gojo-satoru.gif"  />
+<img 
+  align="right" 
+  style="padding-bottom:30px" 
+  height="150" 
+  src="https://media1.tenor.com/m/bGS2OhhN9tsAAAAd/hello-gojo-satoru.gif" 
+/>
+###
+
+<!-- Social Links -->
+<h3 align="center">🌐 Connect with me</h3>
+<p align="center">
+  <a href="mailto:guts7087@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
+  <a href="http://www.linkedin.com/in/suraj-b-melligeri38" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/@LordEditz-ux" target="_blank">
+  <img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" height="48" />
+</a>
+  <a href="https://discord.com/users/guts7087" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
+</p>
+
+
+
+
+
+
+
+
 
 ###
 
-<div align="center">
-  <a href="https://www.youtube.com/@LordEditz-ux" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="55" alt="youtube logo"  />
-  </a>
-  <a href="https://discord.com/users/guts7087" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="55" alt="discord logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="55" alt="gmail logo"  />
-  <a href="http://www.linkedin.com/in/suraj-b-melligeri38" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="55" alt="linkedin logo"  />
-  </a>
-</div>
 
-
-
-
-
-
-
-
-
-<!-- GitHub Stats & Activity -->
 <h2 align="center">⚡ 📊 GitHub Stats & Activity 📊 ⚡</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-bm&theme=github-dark&hide_border=true" alt="GitHub Streak" height="180"/>
