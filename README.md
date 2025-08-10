@@ -72,7 +72,8 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="60" alt="postman logo"  />
 </div>
 
-###
+<br/>
+
 
 <img 
   align="right" 
@@ -102,7 +103,7 @@
 
 
 ###
-
+<br/>
 
 <h2 align="left">⚡ 📊 GitHub Stats & Activity 📊 ⚡</h2>
 <p align="center">
