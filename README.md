@@ -1,12 +1,12 @@
-<h2 align="left">Hi there 👋, I’m Suraj B. Melligeri</h2>
+<h1 align="center">Hi there 👋, I’m Suraj B. Melligeri</h1>
 
 ###
 
-<h4 align="center">🚀 Passionate about building intelligent systems | scalable web apps |  impactful tech solutions.</h4>
+<h3 align="center">🚀 Passionate about building intelligent systems | scalable web apps |  impactful tech solutions.</h3>
 
 ###
 
-<h2 align="center">Languages</h2>
+<h2 align="left">Languages</h2>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="center">Framework</h2>
+<h2 align="left">Framework</h2>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<h2 align="center">Database</h2>
+<h2 align="left">Database</h2>
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 
-<h2 align="center">Tools Used</h2>
+<h2 align="left">Tools Used</h2>
 
 ###
 
