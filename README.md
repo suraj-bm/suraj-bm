@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">🚀 Passionate about building intelligent systems | scalable web apps | impactful tech solutions</h3>
+<h3 align="center">🚀 Passionate about building intelligent systems | scalable apps | impactful tech solutions</h3>
 
 ###
 
