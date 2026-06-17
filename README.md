@@ -1,4 +1,3 @@
-```html
 <h1 align="center">Hi there 👋, I'm Suraj B. Melligeri</h1>
 
 ###
@@ -100,4 +99,3 @@
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suraj-bm&theme=github_dark" alt="Stats" height="130" />
 </p>
-```
