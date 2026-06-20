@@ -105,5 +105,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suraj-bm&label=Profile%20Views&color=0e75b6&style=flat" alt="suraj-bm profile views" />
+  <img src="https://komarev.com/ghpvc/?username=suraj-bm&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge&base=1011" alt="Profile Views" />
 </p>
