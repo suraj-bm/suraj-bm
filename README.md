@@ -4,9 +4,6 @@
 
 <h3 align="center">🚀 Passionate about building intelligent systems | scalable apps | impactful tech solutions</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suraj-bm&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
 
 ###
 
