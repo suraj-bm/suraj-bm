@@ -99,3 +99,7 @@
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suraj-bm&theme=github_dark" alt="Stats" height="130" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suraj-bm&label=Profile%20Views&color=0e75b6&style=flat" alt="suraj-bm profile views" />
+</p>
