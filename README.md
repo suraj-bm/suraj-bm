@@ -94,7 +94,12 @@
 <h2 align="center">⚡📊 GitHub Stats & Activity 📊⚡</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj-bm&theme=github-dark&hide_border=true" alt="GitHub Streak" height="180" />
+  <img 
+    src="https://streak-stats.demolab.com?user=suraj-bm&theme=github-dark-blue&hide_border=true" 
+    alt="GitHub Streak" 
+    height="180" 
+  />
+</p>
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suraj-bm&theme=github_dark" alt="Profile Details" height="180" />
   <br/>
