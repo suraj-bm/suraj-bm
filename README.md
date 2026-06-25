@@ -18,43 +18,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center"><b>Tech Stack</b></td>
-    <td align="center"><b>Focus</b></td>
-    <td align="center"><b>Stats</b></td>
-    <td align="center"><b>Connect</b></td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="260">
-      <h1>6</h1>
-      <b>Languages</b>
-    </td>
-    <td align="center" width="260">
-      <h1>6</h1>
-      <b>Frameworks</b>
-    </td>
-    <td align="center" width="260">
-      <h1>6</h1>
-      <b>Tools</b>
-    </td>
-  </tr>
-</table>
-
-</div>
-
 ---
 
 <h2 align="center">🧠 Tech Stack</h2>
