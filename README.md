@@ -18,8 +18,6 @@
 </div>
 
 <br/>
----
-
 <h2 align="center">🧠 Tech Stack</h2>
 
 <h3>LANGUAGES</h3>
@@ -206,60 +204,7 @@
 
 </div>
 
----
 
-<h2 align="center">📊 Proficiency</h2>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td><b>Python</b></td>
-    <td>
-      <img src="https://geps.dev/progress/90?dangerColor=7F77DD&warningColor=7F77DD&successColor=7F77DD" />
-    </td>
-    <td><b>90%</b></td>
-  </tr>
-  <tr>
-    <td><b>JavaScript</b></td>
-    <td>
-      <img src="https://geps.dev/progress/80?dangerColor=BA7517&warningColor=BA7517&successColor=BA7517" />
-    </td>
-    <td><b>80%</b></td>
-  </tr>
-  <tr>
-    <td><b>React / Next</b></td>
-    <td>
-      <img src="https://geps.dev/progress/75?dangerColor=378ADD&warningColor=378ADD&successColor=378ADD" />
-    </td>
-    <td><b>75%</b></td>
-  </tr>
-  <tr>
-    <td><b>Django / Flask</b></td>
-    <td>
-      <img src="https://geps.dev/progress/78?dangerColor=1D9E75&warningColor=1D9E75&successColor=1D9E75" />
-    </td>
-    <td><b>78%</b></td>
-  </tr>
-  <tr>
-    <td><b>Docker</b></td>
-    <td>
-      <img src="https://geps.dev/progress/65?dangerColor=D85A30&warningColor=D85A30&successColor=D85A30" />
-    </td>
-    <td><b>65%</b></td>
-  </tr>
-  <tr>
-    <td><b>AI / ML</b></td>
-    <td>
-      <img src="https://geps.dev/progress/70?dangerColor=D4537E&warningColor=D4537E&successColor=D4537E" />
-    </td>
-    <td><b>70%</b></td>
-  </tr>
-</table>
-
-</div>
-
----
 
 <h2 align="center">🔥 Focus Areas</h2>
 
